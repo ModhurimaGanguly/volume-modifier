@@ -1,7 +1,7 @@
 # Volume Modifier
 
 ## 📖 Description
-This program modifies the volume of a `.wav` audio file by multiplying or dividing each audio sample by a scaling factor. It preserves the original hesader and outputs a new `.wav` file with the adjusted volume.
+This program modifies the volume of a `.wav` audio file by multiplying or dividing each audio sample by a scaling factor. It preserves the original header and outputs a new `.wav` file with the adjusted volume.
 
 ## ⚙️ How to Run
 ```bash
